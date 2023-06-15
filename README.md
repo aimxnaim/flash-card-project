@@ -18,7 +18,7 @@ Feel free to use it on your laptop :ghost:
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/aimxnaim/flashy.git
+git clone https://github.com/aimxnaim/flash-card-project.git
 ```
 2. Navigate to the project directory:
 ```
