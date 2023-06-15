@@ -16,7 +16,7 @@ To set up the development environment for Flashy, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/aimxnaim/flashy.git
+git clone https://github.com/aimxnaim/flash-card-project.git
 ```
 2. Install the required dependencies:
 ```
