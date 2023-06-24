@@ -22,7 +22,7 @@ git clone https://github.com/aimxnaim/flash-card-project.git
 ```
 2. Navigate to the project directory:
 ```
-cd flashy
+cd flash-card-project
 ```
 3. Install the required dependencies:
 ```
